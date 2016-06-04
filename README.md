@@ -14,6 +14,7 @@ This tool allows to convert shared components into splitted components by recons
 This tool has been developed in AutoIt, a Windows scripting language. More information about AutoIt can be found here: https://www.autoitscript.com/
 
 The source code of the application is available in the src directory of this repository.
+
 A Windows binary is also available in the bin directory of this repository. The binary should work on any version of Windows and can be executed on both 32-bit and 64-bit Windows operating systems. The binary does not have to be installed, it works as a stand-alone program.
 
 * sha256  f41405ec25c620ca1747c0c9d634e4ded54d9bdf90874c6c5004ad925c46ebcb  bin/KeySharingToKeySplitting.exe
