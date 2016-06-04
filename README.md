@@ -9,3 +9,14 @@ There are two ways in which a cryptographic key can be divided in components:
 ## About this tool
 Even though the disadvantages of using key splitting are well known, it can happen that parties with legacy systems cannot input a cryptographic key that is exchanged using the key sharing method.
 This tool allows to convert shared components into splitted components by reconstructing the initial key and then splitting it. By using this tool, parties with legacy systems can exchange components using the key sharing method, and the components can be converted in a secure environment at the party before entering the key in the legacy system.
+
+## Running this tool
+This tool has been developed in AutoIt, a Windows scripting language. More information about AutoIt can be found here: https://www.autoitscript.com/
+
+The source code of the application is available in the src directory of this repository.
+
+A Windows binary is also available in the bin directory of this repository. The binary should work on any version of Windows and can be executed on both 32-bit and 64-bit Windows operating systems. The binary does not have to be installed, it works as a stand-alone program.
+
+* sha256  f41405ec25c620ca1747c0c9d634e4ded54d9bdf90874c6c5004ad925c46ebcb  bin/KeySharingToKeySplitting.exe
+* sha1  3f1a17a8988635fc0848597c18b14d3fe09cf0c9  bin/KeySharingToKeySplitting.exe
+* md5  f92706ea1d031c70aed27cf9882d3a2e  bin/KeySharingToKeySplitting.exe
