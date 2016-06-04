@@ -17,6 +17,8 @@ The source code of the application is available in the src directory of this rep
 
 A Windows binary is also available in the bin directory of this repository. The binary should work on any version of Windows and can be executed on both 32-bit and 64-bit Windows operating systems. The binary does not have to be installed, it works as a stand-alone program.
 
+The last version can be downloaded here: https://github.com/lva/KeySharingToKeySplitting/blob/master/bin/KeySharingToKeySplitting.exe?raw=true
+
 * sha256  f41405ec25c620ca1747c0c9d634e4ded54d9bdf90874c6c5004ad925c46ebcb  bin/KeySharingToKeySplitting.exe
 * sha1  3f1a17a8988635fc0848597c18b14d3fe09cf0c9  bin/KeySharingToKeySplitting.exe
 * md5  f92706ea1d031c70aed27cf9882d3a2e  bin/KeySharingToKeySplitting.exe
